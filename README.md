@@ -1,7 +1,7 @@
 
 # Tax Calculator with AI-Powered Insights
 
-This project is a web-based tax calculator that allows users to compare their tax liabilities under the old and new tax regimes in India for the year 2024. It also provides AI-powered financial insights using Google's generative AI.
+This project is a web-based tax calculator that allows users to compare their tax liabilities under the old and new tax regimes in India for the year 2025. It also provides AI-powered financial insights using Google's generative AI.
 
 ## Features
 
